@@ -12,4 +12,3 @@ src-git darkmatter git://github.com/apollo-ng/luci-theme-darkmatter.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
-#src-git helloworld https://github.com/fw876/helloworld
