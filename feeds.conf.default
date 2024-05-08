@@ -9,3 +9,18 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
+
+src-git opentopd  https://github.com/sirpdboy/sirpdboy-package
+
+src-git kenzo https://github.com/kenzok8/openwrt-packages
+src-git small https://github.com/kenzok8/small
+src-git argonnew https://github.com/jerrykuku/luci-theme-argon.git
+
+#src-git Lienolpackages https://github.com/Lienol/openwrt-packages.git;22.03
+#src-git Lienolluci https://github.com/Lienol/openwrt-luci.git;17.01-dev
+#src-git Lienolrouting https://git.openwrt.org/feed/routing.git;openwrt-22.03
+#src-git Lienoltelephony https://git.openwrt.org/feed/telephony.git;openwrt-22.03
+src-git lienol https://github.com/Lienol/openwrt-package.git;main
+src-git other https://github.com/Lienol/openwrt-package.git;other
+
+src-git OpenClash https://github.com/vernesong/OpenClash.git
